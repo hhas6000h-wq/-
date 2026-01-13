@@ -1,0 +1,8 @@
+{
+  "name": "Chat Real Iraq",
+  "description": "A high-end Iraqi community group chat application with authentication and real-time messaging simulation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
